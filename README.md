@@ -1,2 +1,2 @@
-# nba-site.github.io
+# NBA Site
 A site I made about the NBA
